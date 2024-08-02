@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "list": [
+      "Izgrađene solarne elektrane",
+      "Usluge",
+      "Kompanija",
+      "Partner",
+      "Kontakt"
+    ],
+    "subList1": ["Podrška za solarne elektrane", "Razvojni projekti"],
+    "subList2": ["O nama", "Dokumentacija", "Izgrađene reference"]
+  },
+  "home": {
+    "hero": {
+      "sliders": [
+        {
+          "title": "SE Konkav Konveks 1",
+          "list": [
+            "Naziv klijenta: Konkav Konveks",
+            "Lokacija sistema: Dobanovci",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 1.117,2 kWp"
+          ],
+          "link": "/solarne-elektrane/konkav-konveks"
+        },
+        {
+          "title": "SE Tis 1",
+          "list": [
+            "Naziv klijenta: Tis d.o.o.",
+            "Lokacija sistema: Ivanjica",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 446,88 kWp"
+          ],
+          "link": "/solarne-elektrane/tis"
+        },
+        {
+          "title": "SE Tis 2",
+          "list": [
+            "Naziv klijenta: Tis d.o.o.",
+            "Lokacija sistema: Ivanjica",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 190 kWp"
+          ],
+          "link": "/solarne-elektrane/tis-2"
+        },
+        {
+          "title": "SE Mivex 1",
+          "list": [
+            "Naziv klijenta: Mivex d.o.o.",
+            "Lokacija sistema: Čačak",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 159,6 kWp"
+          ],
+          "link": "/solarne-elektrane/mivex"
+        },
+        {
+          "title": "SE Move 1",
+          "list": [
+            "Naziv klijenta: Move d.o.o.",
+            "Lokacija sistema: Gornji Milanovac",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 167,58 kWp"
+          ],
+          "link": "/solarne-elektrane/move-d-o-o-solarna-elektrana"
+        },
+        {
+          "title": "SE Isak 1",
+          "list": [
+            "Naziv klijenta: Isak d.o.o.",
+            "Lokacija sistema: Arilje",
+            "Pozicija panela: Na krovu",
+            "Snaga elektrane: 207,48 kWp"
+          ],
+          "link": "/solarne-elektrane/isak"
+        }
+      ],
+      "imageSlider": [
+        {
+          "title": "SE Konkav Konveks 1",
+          "location": "Dobanovci"
+        },
+        {
+          "title": "SE Tis 1",
+          "location": "Ivanjica"
+        },
+        {
+          "title": "SE Tis 2",
+          "location": "Ivanjica"
+        },
+        {
+          "title": "SE Mivex 1",
+          "location": "Čačak"
+        },
+        {
+          "title": "SE Move 1",
+          "location": "Gornji Milanovac"
+        },
+        {
+          "title": "SE Isak 1",
+          "location": "Arilje"
+        }
+      ],
+      "button1": "OPŠIRNIJE",
+      "button2": "NAŠI KLIJENTI",
+      "button3": "KEY4S"
+    },
+    "services": {
+      "titleP1": "Naše",
+      "titleP2": "Usluge",
+      "description": "Pored projektovanja i izgradnje solarnih elektrana naš tim pruža čitav niz dodatnih usluga klijentima.",
+      "list": [
+        {
+          "title": "Solarne Elektrane",
+          "info": "Saznajte više o elektranama koje gradimo.",
+          "link": "/solarne-elektrane/"
+        },
+        {
+          "title": "Podrška za SSE",
+          "info": "Software za upravljanje solarnim elektranama",
+          "link": "/podrska-solarne-elektrane/"
+        },
+        {
+          "title": "Razvojni projekti",
+          "info": "Saznajte više o našim razvojnim projektima",
+          "link": "/razvojni-projekti-key4s/"
+        }
+      ]
+    },
+    "count": {
+      "list": [
+        {
+          "num": 250,
+          "rest": "+",
+          "text": "REFERENCI",
+          "button": "POGLEDAJTE REFERENCE"
+        },
+        {
+          "num": 50,
+          "rest": "+ MWp",
+          "text": "PROJEKTOVANO / IZGRAĐENO SOLARNIH ELEKTRANA",
+          "button": "NAŠI KLIJENTI",
+          "link": "/solarne-elektrane/"
+        },
+        {
+          "num": 10,
+          "rest": "+",
+          "text": "GODINA POSTOJANJA",
+          "button": "VIŠE O NAMA",
+          "link": "/solarne-elektrane-o-nama"
+        }
+      ]
+    },
+    "info": {
+      "title": "ZAKORAČITE U BUDUĆNOST UZ OBNOVLJIVE IZVORE ENERGIJE",
+      "subtitle": "Uštedite novac i zaštitite životnu sredinu.",
+      "textP1": "Ideja o pretvaranju sunčeve energije u upotrebljivu električnu energiju iz fotonaponskih ćelija promenila je naš svet. Fotonaponski sistemi predstavljaju najperspektivniji oblik obnovljivih izvora energije.",
+      "textP2": "Key4s tim kao vaš partner će omogućiti da prelaskom na obnovljive izvore energije napravite odgovoran korak u razvoju poslovanja, obezbedite energetsku nezavisnost i povećati nivo društvene i poslovne odgovornosti.",
+      "button": "SAZNAJTE VIŠE",
+      "link": "/solarne-elektrane-o-nama"
+    },
+    "invest": {
+      "label": "INVESTIRAJTE",
+      "title": "Investirajte u solarnu elektranu i uštedite.",
+      "subtitle": "Sunčevi zraci predstavljaju najveći i najčistiji izvor energije.",
+      "line1": "Prednosti solarne elektrane",
+      "line2": "1) Ekološki:  doprinosi smanjenju CO2 emisije u vazduh, povoljno utiče na smanjenje efekta klimatskih promena, nema štetnih dejstava po životnu sredinu.",
+      "line3": "2) Ekonomski: povraćaj investicije u roku od 3-5 godina, proizvodnja elektirčne energije za sopstvene potrebe, prodaja viškova, energetska stabilnost."
+    },
+    "cert": {
+      "title": "SERTIFIKATI",
+      "textP1": "U našem poslovanju primenjujemo strategiju održivog razvoja i kontinualnog unapređenja u skladu sa nacionalnim i međunarodnim standardima.",
+      "textP2": "Kao svedočanstvo ove posvećenosti, Key4s je dobio potvrdu relevantnih sertifikacionih tela da su naši sistemi upravljanja, proizvodi, usluge i procesi u skladu sa važećim propisima, kao i nacionalnim i međunarodnim standardima."
+    },
+    "partner": {
+      "title": "NAŠI PARTNERI"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "Podrška za solarne elektrane"
+    },
+    "info": {
+      "titleP1": "Upravljanje",
+      "titleP2": "solarnim elektranama",
+      "button": "PRIJAVA SSE",
+      "infoTitle": "SSE",
+      "infoText": "Softver za solarne elektrane je jedinstveno softversko rešenje namenjeno za upravljanje i praćenje solarnih elektrana, klijenata, opreme, dokumentacije i radnih naloga. Softver dolazi kao kompletno rešenje ali se može prilagoditi potrebama klijenata."
+    },
+    "func": {
+      "titleP1": "SSE platforma",
+      "titleP2": "ima sledeće funkcionalnosti",
+      "list": [
+        "Uvid u sve garancije, zaduženja i radne naloge",
+        "User-friendly iskustvo i korisna analitika",
+        "Prilagodljiv pristup po rolama i dozvolama"
+      ]
+    }
+  },
+  "project": {
+    "hero": {
+      "title": "Razvojni projekti"
+    },
+    "area": {
+      "info": "Key4s je vlasnik razvojnih projekata iz oblasti poljoprivrede, solarne energije i prateće infrastrukture na lokaciji Lunjevica",
+      "list": [
+        {
+          "title": "SE Lunjevica 1",
+          "info": "Projektovana SE na zemlji 500 kWp"
+        },
+        {
+          "title": "PG Key4s Lunjevica",
+          "info": "Formiran zasad lešnika na 25 ha"
+        },
+        {
+          "title": "PG Key4s Lunjevica",
+          "info": "Izgrađena Hala i infrastruktura"
+        }
+      ]
+    },
+    "video": {
+      "title": "Video zapisi naših projekata"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "O nama"
+    },
+    "info": {
+      "title1": "Istorija kompanije",
+      "title2": "Misija",
+      "title3": "Vizija",
+      "line1Link": "Key4S doo",
+      "line1Rest": "Beograd osnovana je 2014. godine u Beogradu. Naš portfolio usluga čini projektovanje i izgradnja solarnih elektrana, konsulting usluge u oblasti informacionih tehnologija, poslovanja i  energetike, kao i izrada i održavanje softverskih rešenja.",
+      "line2": "Partner smo velikim i malim preduzećima, javnim i privatnim ustanovama kojima pružamo profesionalne usluge.",
+      "line3": "U našoj kompaniji su zaposleni profesionalci sa dugogodišnjim iskustvom koji se bave razvojem kompleksnih projekata i izazovnim rešenjima. Fleksibilnost, efikasnost i individualni pristup svakom klijentu osnovni su principi koje sledimo u radu.",
+      "line4": "Naši konsultanti i inženjeri su realizovali veliki broj razvojnih projekata u Ministarstvu poljoprivrede, Ministarstvu pravde, Ministarstvu državne uprave, organima državne uprave i lokalne samouprave.",
+      "line5": "Naš tim konsultanata je učestvovao na projektima unapređenja poslovanja u velikom broju kompanija i banaka u Srbiji.",
+      "line6": "U želji da pružimo naše usluge što širem krugu korisnika 2017. godine, proširili smo svoje poslovanje na teritoriju EU osnivanjem firme Key4s Global Consultig u Talinu, Estonija.",
+      "line7": "Nudimo vam rešenja po meri, od pojedinačnih solarnih panela do kompletnih fotonaponskih sistema – solarne elektrane. Već 10. godina Key4s kontinuirano oblikuje razvoj solarne energije kao izvora obnovljive energije.",
+      "line8": "Mi smo jedan od od pionira u Srbiji u oblasti solarne tehnologije i jedan od međunarodnih partnera u oblasti proizvodnje energije iz sunčeve svetlosti.",
+      "line9": "Kompanija Key4S je kompletan provajder sistema solarne energije koji nudi sve od konsultacija do održavanja pod jednim krovom. Bilo da se radi o izgradnji solarne elektrane u komercijalnom sektoru, industrijskom sektoru, javnom sektoru i privatnim domaćinstvima, Key4S Vam može pomoći u razvoju prilagođenog, personalizovanog koncepta koji odgovara vašim potrebama i energetskim zahtevima, uzimajući u obzir lokalizovane uslove.",
+      "line10": "Naša misija je da pružimo iskustvo bez premca kreirano prema potrebama klijenata.",
+      "line11": "Distribucija sunčeve energije za izgradnju boljeg sveta.",
+      "line12": "Kompanija Key4s pruża usluge izgradnje ekološki čiste i isplative solarne elektrane. Korisnici naših usluga su domaćinstva, javne ustanove, komercijalni i industrijski kupci. Od pojedinačnih solarnih modula do kompletnih solarnih parkova.",
+      "line13": "Distirbucija solarne energije jednog od najiskusnijih timova na polju solarnih rešenja u Srbiji."
+    },
+    "how": {
+      "title": "Kako funkcionišu naše elektrane?",
+      "list": [
+        ["Paneli mogu biti pričvršćeni na krov ili zemlju."],
+        ["Sunce generiše solarnu energiju."],
+        [
+          "Solarni paneli prikupljaju sunčevu energiju i pretvaraju je u jednosmernu električnu energiju."
+        ],
+        ["Solarni paneli se povezuju sa invertorom."],
+        [
+          "Invertor transformiše jednosmernu električnu struju iz panela u naizmeničnu, koja se može koristiti na mreži."
+        ],
+        [
+          "Električna energija iz  elektrane može služiti za:",
+          "– sopstvene potrebe",
+          "– isporuku u mrežu/prodaju"
+        ]
+      ]
+    },
+    "cert": {
+      "title": "SERTIFIKATI",
+      "textP1": "Naše poslovanje je vođeno strategijom održivog razvoja i kontinuiranog unapređenja koje je usklađena sa nacionalnim i međunarodnim standardima, za šta smo nagrađeni raznim sertifikatima i oznakama.",
+      "textP2": "Kao svedočanstvo ove posvećenosti, Key4s je dobio potvrdu relevantnih sertifikacionih tela da su naši sistemi upravljanja, proizvodi, usluge i procesi u skladu sa važećim propisima, kao i nacionalnim i međunarodnim standardima."
+    }
+  },
+
+  "partner": {
+    "hero": {
+      "title": "Recom Technologies"
+    },
+    "info": {
+      "title1": "Šta nas pokreće",
+      "title2": "Naše vrednosti",
+      "title3": "Ko smo mi",
+      "line1Link": "U RECOM-u",
+      "line1Rest": "razmišljamo drugačije i posvećeni smo misiji smanjenja zavisnosti čovečanstva od fosilnih goriva, prevazilaženju globalnih nejednakosti i zaustavljanju degradacije našeg okruženja.",
+      "line2": "Obnovljivi izvori, sveprisutni i beskonačno dostupni, mogu ravnomerno snabdevati energijom ljude i zajednice širom kontinenata i regiona, bez obzira na njihovo bogatstvo i društveni položaj, generisati rast i pomoći u izbegavanju ekonomskih i vojnih sukoba širom sveta - i sve to u čistom i održivom okruženju.",
+      "line3": "U RECOM-u verujemo u takvu budućnost i stalno radimo na tome da solarna energija bude dostupna svuda i svima. Naš cilj je da solarizujemo svetsko snabdevanje energijom i učinimo čistu energiju izvorom za svu električnu energiju, mobilnost i pametnu infrastrukturu budućnosti.",
+      "line4": "Raditi stvari ispravno je jedna od naših najvažnijih vrednosti u RECOM-u. Posvećeni smo pružanju visokokvalitetnih usluga i proizvoda kako bismo zadovoljili interese i zadovoljstvo naših kupaca. Pružamo vrednost za novac i isporučujemo najbolju korisničku uslugu i iskustvo.",
+      "line5": "Dok težimo da postignemo naše dvostruke ciljeve izuzetnog kvaliteta i poštene cene, uvek smo svesni naše obaveze da postupamo sa najvišim standardom integriteta u svim našim poslovnim odlukama i akcijama. Interno smo etnički raznoliki, rodno ravnopravni tim, odgovorni i puni poštovanja jedni prema drugima i prema drugima. Eksterno, poštovanje ljudskih prava, radnih zakona, fer konkurencije i ekoloških razmatranja su vodeći principi u našim izborima za outsourcing, nabavku i krajnje korisnike.",
+      "line6": "RECOM je kompanija za obnovljive izvore energije sa sedištem u Francuskoj i značajnim prisustvom u globalnoj solarnoj industriji. RECOM proizvodi module, ćelije, invertore, hibridne sisteme za skladištenje, baterije i punjače za električna vozila. RECOM je vodeći i jedini Bloomberg Tier 1 proizvođač PV modula u Evropi sa godišnjim proizvodnim kapacitetom preko 3.2GW i sa prodajom solarnih modula u više od 110 zemalja.",
+      "line7": "Pored naše sopstvene proizvodne jedinice u Francuskoj i lokalnog tima za istraživanje i razvoj, ulažemo u i sarađujemo sa vodećim svetskim istraživačkim institucijama i proizvođačima kako bismo inovirali, razvijali, delili i komercijalizovali najnovija tehnološka dostignuća u proizvodnji solarnih modula. Naš glavni partner za istraživanje i razvoj u oblasti solarnih panela je vodeći francuski istraživački centar, Nacionalni institut za solarnu energiju (CEA/INES). Takođe sarađujemo sa drugim istraživačkim centrima, univerzitetima i proizvodnim kompanijama kako naš portfolio raste. Pokrećemo inovacije u jedinstvenim aplikacijama za proizvodnju i skladištenje energije. Pionirom smo u rešenjima za napajanje i skladištenje energije, bilo da se radi o panel-inverter rešenjima za stambene aplikacije ili rešenjima za energiju u komunalnim razmerama.",
+      "line8": "Svi naši proizvodi su dizajnirani i inženjerski razvijeni u Evropi. Uvek smo ispred vremena i donosimo potrošačima najnoviju tehnologiju."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Kontakt"
+    },
+    "info": {
+      "title1": "Kontaktirajte nas",
+      "title2": "Kontakt forma",
+      "title3": "Društvene mreže",
+      "location": "sprat",
+      "formText1": "Kontakt forma na sajtu, mejl adresa ili telefonski/Viber/WhatsApp poziv su načini na koje brzo možete dobiti sve informacije o našem poslovanju i uslugama.",
+      "input1": "Ime",
+      "input2": "Prezime",
+      "input3": "Telefon",
+      "input4": "Email",
+      "input5": "Poruka",
+      "button": "Pošalji",
+      "formText2": "Rado ćemo odgovoriti na sva vaša pitanja i razrešiti sve nedoumice."
+    }
+  },
+  "powerPlant": {
+    "hero": {
+      "title": "Solarne Elektrane"
+    },
+    "project": {
+      "text": "Key4s tim u kontinuitetu realizuje godišnje 100+ projekata izgradnje solarnih elektrana za naše klijente koji su uspešni poslovni sistemi (preduzetnici, poljoprivredna gazdinstva, preduzeća).",
+      "itemButton": "Detaljno >",
+      "caseTitle": "Studije izvodljivosti:",
+      "numTextP1": "50+ MWp projektovano/izgrađeno ",
+      "numTextP2": "solarnih elektrana"
+    },
+    "template": {
+      "dirText": "Solarne Elektrane",
+      "button": "POGLEDAJ VIDEO",
+      "name": "Naziv klijenta",
+      "location": "Lokacija sistema",
+      "position": "Pozicija panela",
+      "positionList": ["Na krovu", "Na zemlji"],
+      "power": "Snaga elektrane",
+      "type": "Tip sistema",
+      "num": "Broj panela",
+      "inverter": "Tip invertera",
+      "sliderTitle": "Preporučene elektrane",
+      "sliderButton": "VIDI SVE SOLARNE ELEKTRANE"
+    }
+  },
+  "documentation": {
+    "header": "Dokumentacija",
+    "items": [
+      {
+        "title": "Logo",
+        "desc1": "Vektorski format logotipa",
+        "desc2": "Tip fajla: .pdf",
+        "link": "/Key4s_Logo.pdf"
+      },
+      {
+        "title": "Knjiga standarda",
+        "desc1": "Knjiga grafičkih standarda Key4s",
+        "desc2": "Tip fajla: .pdf",
+        "link": "/key4s-knjiga-standarda.pdf"
+      },
+      {
+        "title": "Fronius System Partner",
+        "desc1": "Sertifikat",
+        "desc2": "Tip fajla: .pdf",
+        "link": "/Certificate-2.pdf"
+      },
+      {
+        "title": "Apr Rešenje 2022",
+        "desc1": "APR rešenje 2022",
+        "desc2": "Tip fajla: .pdf",
+        "link": "/AprResenje_2022.pdf"
+      },
+      {
+        "title": "Podaci firme Key4s",
+        "desc1": "Podaci firme Key4s",
+        "desc2": "Tip fajla: .pdf",
+        "link": "/Kontakt_Podaci_firme_SRB-ENG.pdf"
+      }
+    ]
+  },
+  "footer": {
+    "location": "sprat",
+    "about": {
+      "title": "O kompaniji",
+      "text": "Key4s nudi rešenja projektovanja i izgradnje solarnih elektrana prema potrebama klijenata i po principu „ključ u ruke za vašu uspešnu poslovnu budućnost“."
+    },
+    "services": {
+      "title": "Naše usluge",
+      "list": ["Solarne elektrane", "Podrška za SE", "Razvojni projekti"]
+    },
+    "network": {
+      "title": "Društvene mreže"
+    }
+  }
+}

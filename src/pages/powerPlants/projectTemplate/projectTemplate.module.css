@@ -1,0 +1,165 @@
+.topInfo {
+  background-color: var(--blue-color);
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.topInfo .name {
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+
+.dir {
+  font-size: 14px;
+}
+
+.details {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  gap: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.leftSide {
+  display: flex;
+  justify-content: center;
+}
+
+.imageWrapper {
+  max-width: 350px;
+  height: 450px;
+  width: 100%;
+}
+
+.imageWrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 10px;
+}
+
+.buttonWrapper {
+  display: flex;
+  column-gap: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
+}
+
+.buttonWrapper > a:first-child {
+  font-size: 24px;
+  font-weight: 400;
+  color: rgb(103, 104, 106);
+}
+
+.details h2 {
+  font-size: 32px;
+  line-height: 32px;
+  color: var(--blue-color);
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.detailsInfo {
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+
+  line-height: 140%;
+  color: rgb(51, 51, 51);
+}
+
+.detailsFooter {
+  display: flex;
+  width: 100%;
+  gap: 40px;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 2px solid var(--blue-color);
+}
+
+.detailsFooter img {
+  height: 50px;
+}
+
+.footerItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+}
+
+.sliderWrapper {
+  margin-bottom: 100px;
+}
+
+.sliderTop {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.sliderTitle {
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 400;
+  color: var(--blue-color);
+}
+
+.sliderTop > a {
+  background-color: transparent;
+  color: var(--blue-color);
+  font-weight: 400;
+  border: 2px solid var(--blue-color);
+}
+
+.mobButton {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .details {
+    grid-template-columns: 1fr;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .sliderWrapper {
+    margin-bottom: 50px;
+  }
+
+  .buttonWrapper > a:nth-child(2) {
+    display: none;
+  }
+
+  .buttonWrapper > a:first-child {
+    font-size: 16px;
+  }
+
+  .mobButton {
+    margin-top: 20px;
+    display: initial;
+  }
+
+  .detailsInfo {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .detailsFooter {
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+}

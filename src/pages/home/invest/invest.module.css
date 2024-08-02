@@ -1,0 +1,54 @@
+.section {
+  background-image: linear-gradient(
+      rgba(69, 67, 67, 0.8),
+      rgba(69, 67, 67, 0.8)
+    ),
+    url(../../../assets/images/invest.jpeg);
+  background-position: center;
+  background-size: cover;
+
+  color: white;
+
+  text-align: center;
+
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.content {
+}
+
+.label {
+  font-size: 23px;
+  color: rgb(70, 174, 210);
+  line-height: 27px;
+  font-weight: 600;
+  margin-bottom: 60px;
+}
+
+.title {
+  font-size: 32px;
+  line-height: 32px;
+  margin-bottom: 30px;
+
+  font-weight: 600;
+}
+
+.subtitle {
+  font-size: 23px;
+  color: rgb(70, 174, 210);
+  line-height: 27px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.line1 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-weight: 400;
+  line-height: 22px;
+  font-size: 14px;
+}

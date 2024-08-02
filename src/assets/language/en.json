@@ -1,0 +1,385 @@
+{
+  "nav": {
+    "list": [
+      "Construction of solar power plants",
+      "Services",
+      "Company",
+      "Partner",
+      "Contact"
+    ],
+    "subList1": ["Support for solar power plants", "Development projects"],
+    "subList2": ["About us", "Documentation", "Solar Power Plants"]
+  },
+  "home": {
+    "hero": {
+      "sliders": [
+        {
+          "title": "PVS Konkav Konveks 1",
+          "list": [
+            "Client name: Konkav Konveks",
+            "System location: Dobanovci",
+            "Panel position: On the roof",
+            "Power plant: 1.117,2 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/konkav-konveks"
+        },
+        {
+          "title": "SE Tis 1",
+          "list": [
+            "Client name: Tis d.o.o.",
+            "System location: Ivanjica",
+            "Panel position: On the roof",
+            "Power plant: 446,88 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/tis"
+        },
+        {
+          "title": "SE Tis 2",
+          "list": [
+            "Client name: Tis d.o.o.",
+            "System location: Ivanjica",
+            "Panel position: On the roof",
+            "Power plant: 190 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/tis-2"
+        },
+        {
+          "title": "SE Mivex 1",
+          "list": [
+            "Client name: Mivex d.o.o.",
+            "System location: Čačak",
+            "Panel position: On the roof",
+            "Power plant: 159,6 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/mivex"
+        },
+        {
+          "title": "SE Move 1",
+          "list": [
+            "Client name: Move d.o.o.",
+            "System location: Gornji Milanovac",
+            "Panel position: On the roof",
+            "Power plant: 167,58 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/move-d-o-o-solarna-elektrana"
+        },
+        {
+          "title": "SE Isak 1",
+          "list": [
+            "Client name: Isak d.o.o.",
+            "System location: Arilje",
+            "Panel position: On the roof",
+            "Power plant: 207,48 kWp"
+          ],
+          "link": "/en/construction-of-solar-power-plants/isak"
+        }
+      ],
+      "imageSlider": [
+        {
+          "title": "SE Konkav Konveks 1",
+          "location": "Dobanovci"
+        },
+        {
+          "title": "SE Tis 1",
+          "location": "Ivanjica"
+        },
+        {
+          "title": "SE Tis 2",
+          "location": "Ivanjica"
+        },
+        {
+          "title": "SE Mivex 1",
+          "location": "Čačak"
+        },
+        {
+          "title": "SE Move 1",
+          "location": "Gornji Milanovac"
+        },
+        {
+          "title": "SE Isak 1",
+          "location": "Arilje"
+        }
+      ],
+      "button1": "MORE EXTENSIVELY",
+      "button2": "OUR CLIENTS",
+      "button3": "KEY4S"
+    },
+    "services": {
+      "titleP1": "Our",
+      "titleP2": "Services",
+      "description": "In addition to designing and building solar power plants, our team provides a whole range of additional services to clients.",
+      "list": [
+        {
+          "title": "Solar Power plants",
+          "info": "Learn more about the power plants we build.",
+          "link": "/en/construction-of-solar-power-plants"
+        },
+        {
+          "title": "Support for SSPP",
+          "info": "Software for managing solar power plants",
+          "link": "/en/support-for-solar-power-plants"
+        },
+        {
+          "title": "Development projects",
+          "info": "Learn more about our development projects",
+          "link": "/en/development-projects"
+        }
+      ]
+    },
+    "count": {
+      "list": [
+        {
+          "num": 250,
+          "rest": "+",
+          "text": "REFERENCES",
+          "button": "SEE REFERENCES"
+        },
+        {
+          "num": 50,
+          "rest": "+ MWp",
+          "text": "DESIGNED / BUILT SOLAR POWER PLANTS",
+          "button": "OUR CLIENTS",
+          "link": "/en/construction-of-solar-power-plants"
+        },
+        {
+          "num": 10,
+          "rest": "+",
+          "text": "YEAR EXISTENCES",
+          "button": "MORE ABOUT US",
+          "link": "/en/about-us"
+        }
+      ]
+    },
+    "info": {
+      "title": "STEP INTO THE FUTURE WITH RENEWABLE ENERGY SOURCES",
+      "subtitle": "Save money and protect the environment.",
+      "textP1": "The idea of converting solar energy into usable electricity from photovoltaic cells changed our world. Photovoltaic systems represent the most promising form of renewable energy sources.",
+      "textP2": "The Key4s team as your partner will enable you to take a responsible step in business development by switching to renewable energy sources, ensure energy independence and increase the level of social and business responsibility.",
+      "button": "LEARN MORE",
+      "link": "/en/about-us"
+    },
+    "invest": {
+      "label": "INVEST",
+      "title": "Invest in a solar power plant and save.",
+      "subtitle": "The sun's rays represent the largest and cleanest source of energy.",
+      "line1": "Advantages of a solar power plant",
+      "line2": "1) Ecological: contributes to the reduction of CO2 emissions into the air, has a favorable effect on reducing the effects of climate change, has no adverse effects on the environment.",
+      "line3": "2) Economic: return on investment within 3-5 years, production of electricity for own needs, sale of surpluses, energy stability."
+    },
+    "cert": {
+      "title": "CERTIFICATES",
+      "textP1": "In our business, we apply a strategy of sustainable development and continuous improvement in accordance with national and international standards.",
+      "textP2": "As a testament to this commitment, Key4s has received confirmation from relevant certification bodies that our management systems, products, services and processes comply with applicable regulations, as well as national and international standards."
+    },
+    "partner": {
+      "title": "OUR PARTNERS"
+    }
+  },
+  "support": {
+    "hero": {
+      "title": "Support for solar power plants"
+    },
+    "info": {
+      "titleP1": "Management",
+      "titleP2": "solar power plants",
+      "button": "LOGIN TO THE SSPP",
+      "infoTitle": "SSPP (Software for Solar Power Plants)",
+      "infoText": "Software for solar power plants a unique software solution designed to manage and monitor solar power plants, clients, equipment, documentation and work orders. The software comes as a complete solution but can be customized to the needs of clients."
+    },
+    "func": {
+      "titleP1": "The SSPP platform",
+      "titleP2": "has the following functionalities",
+      "list": [
+        "Insight into all guarantees, liabilities and work orders",
+        "User-friendly experience and useful analytics",
+        "Customizable access by roles and permissions"
+      ]
+    }
+  },
+  "project": {
+    "hero": {
+      "title": "Development projects"
+    },
+    "area": {
+      "info": "Key4s is the owner of development projects in the fields of agriculture, solar energy and supporting infrastructure at the Lunjevica location",
+      "list": [
+        {
+          "title": "PVS Lunjevica 1",
+          "info": "Projected PVS on the ground 500 kWp"
+        },
+        {
+          "title": "Agricultural Holding Key4s Lunjevica",
+          "info": "Hazelnut plantation formed on 25 ha"
+        },
+        {
+          "title": "Agricultural Holding Key4s Lunjevica",
+          "info": "Built Hall and infrastructure"
+        }
+      ]
+    },
+    "video": {
+      "title": "Videos of our projects"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About us"
+    },
+    "info": {
+      "title1": "Company history",
+      "title2": "Mission",
+      "title3": "A vision",
+      "line1Link": "Key4S doo",
+      "line1Rest": "Belgrade was founded in 2014. in Belgrade. Our portfolio of services includes the design and construction of solar power plants, consulting services in the field of information technology, business and energy, as well as the development and maintenance of software solutions.",
+      "line2": "We are a partner to large and small companies, public and private institutions to which we provide professional services.",
+      "line3": "Our company employs professionals with many years of experience who deal with the development of complex projects and challenging solutions. Flexibility, efficiency and an individual approach to each client are the basic principles we follow in our work.",
+      "line4": "Our consultants and engineers have implemented a large number of development projects in the Ministry of Agriculture, Ministry of Justice, Ministry of State Administration, state administration and local self-government bodies.",
+      "line5": "Our team of consultants participated in business improvement projects in a large number of companies and banks in Serbia.",
+      "line6": "In the desire to provide our services to as wide a circle of users as possible in 2017, we expanded our business to the territory of the EU by establishing the company Key4s Global Consultig in Tallinn, Estonia.",
+      "line7": "We offer you tailor-made solutions, from individual solar panels to complete photovoltaic systems – solar power plants. Now in its 10th year, Key4s has continuously shaped the development of solar energy as a source of renewable energy.",
+      "line8": "We are one of the pioneers in Serbia in the field of solar technology and one of the international partners in the field of energy production from sunlight.",
+      "line9": "Key4S is a complete solar energy system provider that offers everything from consultation to maintenance under one roof. Whether building a solar power plant in the commercial sector, industrial sector, public sector or private households, Key4S can help you develop a customized, personalized concept that suits your needs and energy requirements, taking into account localized conditions.",
+      "line10": "Our mission is to provide an unparalleled experience tailored to our clients’ needs.",
+      "line11": "Distribution of solar energy to build a better world.",
+      "line12": "The company Key4s provides services for the construction of an ecologically clean and cost-effective solar power plant. Users of our services are households, public institutions, commercial and industrial customers. Od pojedinačnih solarnih modula do kompletnih solarnih parkova.",
+      "line13": "Distribution of solar energy by one of the most experienced teams in the field of solar solutions in Serbia."
+    },
+    "how": {
+      "title": "How they work our power plants?",
+      "list": [
+        ["The panels can be attached to the roof or the ground."],
+        ["The sun generates solar energy."],
+        [
+          "Solar panels collect solar energy and convert it into DC electricity."
+        ],
+        ["The solar panels are connected to the inverter."],
+        [
+          "The inverter transforms the direct current from the panel into alternating current, which can be used on the grid."
+        ],
+        [
+          "Electricity from the power plant can be used for:",
+          "– own needs",
+          "– network delivery/sales"
+        ]
+      ]
+    },
+    "cert": {
+      "title": "CERTIFICATES",
+      "textP1": "Our business is guided by a strategy of sustainable development and continuous improvement that is in line with national and international standards, for which we have been awarded various certificates and marks.",
+      "textP2": "As a testament to this commitment, Key4s has received confirmation from relevant certification bodies that our management systems, products, services and processes comply with applicable regulations, as well as national and international standards."
+    }
+  },
+  "partner": {
+    "hero": {
+      "title": "Recom Technologies"
+    },
+    "info": {
+      "title1": "What Drives Us",
+      "title2": "Our Values",
+      "title3": "Who we are",
+      "line1Link": "At RECOM",
+      "line1Rest": "we think differently and we are committed to the mission before us to lessen humanity’s dependence on fossil fuel, overcome global imbalances and halt the degradation of our environment.",
+      "line2": "Renewable sources, ubiquitous and infinitely available, can supply energy evenly to people and communities across continents and regions, regardless of their wealth and social standing, generate growth and help avoid economic and military conflicts around the world-and all this in a clean and sustainable environment.",
+      "line3": "At RECOM we believe in such a future and we work constantly to make solar energy available everywhere and for everyone. Our aim is to solarize the world energy supply and make clean energy the source for all electricity, mobility and smart infrastructure of the future.",
+      "line4": "Doing things right is one of our most important values at RECOM. We are committed to providing high-quality services and products to meet the interests and satisfaction of our customers. We provide value for money and deliver the best customer service and experience.",
+      "line5": "As we aim to achieve our dual goals of exceptional quality and fair price, we are always mindful of our commitment to act with the highest standard of integrity in all of our business decisions and actions. Internally, we are ethnically diverse, gender-equal one team, accountable and respectful among ourselves and towards others. Externally, the respect for human rights, labor laws, fair competition and environmental considerations are the guiding principles in our choices for outsourcing, procurement and end users.",
+      "line6": "RECOM is a France based renewable energy company with notable presence in the global solar industry. RECOM produces modules, cells, inverters, hybrid storage systems, batteries and EV chargers. RECOM is a leading and the only Bloomberg Tier 1 PV module manufacturerin Europe with above 3.2GW annual production capacity and with sales of solar modules in more than 110 countries.",
+      "line7": "Along to our own manufacturing facility in France and local R&D team, we invest in, and work with leading global research institutions and manufacturers to innovate, develop, share and commercialize the latest technological advances in solar module manufacturing. Our primary R&D partner in the area of solar panels is a leading French research center, the National Institute for Solar Energy (CEA/INES). We also work with other research centers, universities and manufacturing companies as our portfolio expands. We drive innovation in unique energy production and storage applications. We pioneer in power and energy storage solutions, as it comes to skid mounted panel-inverter solutions for residential applications or to utility scale energy solutions.",
+      "line8": "All our products are designed and engineered in Europe. We are always ahead of the curve and we bring to consumers the very latest in technology"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact"
+    },
+    "info": {
+      "title1": "Contact us",
+      "title2": "Contact form",
+      "title3": "Social network",
+      "location": "floor",
+      "formText1": "The contact form on the website, email address or phone/Viber/WhatsApp call are the ways you can quickly get all the information about our business and services.",
+      "input1": "Name",
+      "input2": "Surname",
+      "input3": "Phone",
+      "input4": "Email",
+      "input5": "Message",
+      "button": "Send",
+      "formText2": "We will be happy to answer all your questions and resolve any doubts."
+    }
+  },
+  "powerPlant": {
+    "hero": {
+      "title": "Solar Power Plants"
+    },
+    "project": {
+      "text": "The Key4s team continuously implements 100+ solar power plant construction projects annually for our clients that are successful business systems (entrepreneurs, agricultural holdings, companies).",
+      "itemButton": "DETAILED >",
+      "caseTitle": "Feasibility studies:",
+      "numTextP1": "50+ MWp designed/built ",
+      "numTextP2": "Solar power plants"
+    },
+    "template": {
+      "dirText": "Solar Power Plants",
+      "button": "WHATCH THE VIDEO",
+      "name": "Client name",
+      "location": "System location",
+      "position": "Panel position",
+      "positionList": [" On the roof", "On the ground"],
+      "power": "Power plant",
+      "type": "System type",
+      "num": "Number of panels",
+      "inverter": "Inverter type",
+      "sliderTitle": "Recommended Solar Power Plants",
+      "sliderButton": "SEE ALL SOLAR POWER PLANTS"
+    }
+  },
+  "documentation": {
+    "header": "Documentation",
+    "items": [
+      {
+        "title": "Logo",
+        "desc1": "Vector logo format",
+        "desc2": "File type: .pdf",
+        "link": "/Key4s_Logo.pdf"
+      },
+      {
+        "title": "Book of standards",
+        "desc1": "Key4s graphics standards book",
+        "desc2": "File type: .pdf",
+        "link": "/key4s-knjiga-standarda.pdf"
+      },
+      {
+        "title": "Fronius System Partner",
+        "desc1": "Certificate",
+        "desc2": "File type: .pdf",
+        "link": "/Certificate-2.pdf"
+      },
+      {
+        "title": "Apr Solution 2022",
+        "desc1": "APR Solution 2022",
+        "desc2": "File type: .pdf",
+        "link": "/AprResenje_2022.pdf"
+      },
+      {
+        "title": "Key4s company data",
+        "desc1": "Key4s company data",
+        "desc2": "File type: .pdf",
+        "link": "/Kontakt_Podaci_firme_SRB-ENG.pdf"
+      }
+    ]
+  },
+  "footer": {
+    "location": "floor",
+    "about": {
+      "title": "About Company",
+      "text": "Key4s offers solutions for the design and construction of solar power plants according to the needs of clients and on the principle of “key for your successful business future”."
+    },
+    "services": {
+      "title": "Our Services",
+      "list": ["Solar Power Plants", "Support for SE", "Development projects"]
+    },
+    "network": {
+      "title": "Social network"
+    }
+  }
+}

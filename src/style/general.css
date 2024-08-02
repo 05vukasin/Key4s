@@ -1,0 +1,108 @@
+@font-face {
+  font-family: Axiforma;
+  src: url(../assets/fonts/Axiforma-Light.woff);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: Axiforma;
+  src: url(../assets/fonts/Axiforma-Regular.woff);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Axiforma;
+  src: url(../assets/fonts/Axiforma-ExtraBold.woff);
+  font-weight: 600;
+}
+
+:root {
+  --blue-color: #0880b2;
+  --white-color: #e6e7e8;
+  --gray-color: rgb(140, 139, 139);
+  font-family: "Axiforma";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-weight: 200;
+  font-size: 16px;
+
+  line-height: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1600px;
+  margin: auto;
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.container-narrow {
+  width: 100%;
+  max-width: 1220px;
+  margin: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+@media (max-width: 1200px) {
+  .container,
+  .container-narrow {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+/* Slider */
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: var(--blue-color);
+
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  top: initial;
+  left: 0;
+  bottom: -75px;
+}
+
+.swiper-button-next {
+  transform: translateX(100%);
+  left: 20px;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: white;
+
+  font-size: 16px;
+}
+
+@media (max-width: 1000px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+}

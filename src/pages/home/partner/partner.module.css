@@ -1,0 +1,49 @@
+.section {
+  height: 80vh;
+
+  background-image: url(../../../assets/images/partner.jpg);
+  background-size: cover;
+  background-position: center;
+
+  padding-top: 75px;
+  text-align: center;
+}
+
+.title {
+  font-size: 23px;
+  color: rgb(70, 174, 210);
+  font-weight: 600;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+
+  margin-top: 100px;
+}
+
+.logos img {
+  width: auto;
+  height: 60px;
+}
+
+@media (max-width: 700px) {
+  .logos img {
+    height: 40px;
+  }
+}
+
+@media (max-width: 500px) {
+  .logos img {
+    height: auto;
+    width: 100%;
+    max-width: 200px;
+  }
+
+  .logos {
+    flex-direction: column;
+    align-items: center;
+    gap: 80px;
+  }
+}

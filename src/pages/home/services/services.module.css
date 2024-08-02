@@ -1,0 +1,101 @@
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: var(--gray-color);
+}
+
+.title {
+  text-align: center;
+  font-size: 43px;
+  line-height: 52px;
+  font-weight: 400;
+}
+
+.title span {
+  color: var(--blue-color);
+}
+
+.description {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+
+  padding-top: 30px;
+}
+
+.item {
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid #e6e7e8;
+  background-color: white;
+  transition: 0.25s ease-in-out;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.item:hover {
+  transform: scale(1.1);
+}
+
+.list:hover .item:not(:hover) {
+  transform: scale(0.95);
+  filter: blur(2px);
+}
+
+.icon {
+  width: 80px;
+}
+
+.itemTitle {
+  font-size: 30px;
+  color: var(--blue-color);
+  line-height: 32px;
+  margin-top: 20px;
+}
+
+.itemInfo {
+  color: rgb(51, 51, 51);
+  margin-top: 20px;
+  line-height: 24px;
+}
+
+.button {
+  margin-top: 30px;
+  background-color: var(--blue-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+}
+
+.button img {
+  width: 12px;
+}
+
+@media (max-width: 900px) {
+  .list {
+    grid-template-columns: 1fr;
+    gap: 20px;
+
+    padding-top: 30px;
+  }
+
+  .item:hover {
+    transform: scale(1);
+  }
+
+  .list:hover .item:not(:hover) {
+    transform: scale(1);
+    filter: blur(0);
+  }
+}

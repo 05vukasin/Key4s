@@ -1,0 +1,26 @@
+.icon {
+  position: fixed;
+  background-color: var(--blue-color);
+  height: 50px;
+  width: 50px;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100000000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 50%;
+
+  cursor: pointer;
+}
+
+.icon img {
+  width: 30px;
+}
+
+@media (min-width: 1000px) {
+  .hide {
+    display: none;
+  }
+}

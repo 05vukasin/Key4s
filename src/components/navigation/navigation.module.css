@@ -1,0 +1,309 @@
+.header {
+  background-color: var(--blue-color);
+  color: var(--white-color);
+  position: relative;
+  z-index: 102;
+  padding: 10px 0;
+}
+
+.header img {
+  width: 14px;
+  transform: translateY(-1px);
+}
+
+.header > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.leftWrapper {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  row-gap: 10px;
+
+  flex-wrap: wrap;
+}
+
+.itemWrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.languageWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 15px;
+  width: 250px;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid var(--white-color);
+
+  font-size: 14px;
+}
+
+.dropdownWrapper {
+  opacity: 0;
+  transform: translateY(15px);
+  transition: 0.25s ease-in-out;
+  pointer-events: none;
+  padding-top: 5px;
+}
+
+.languageWrapper2 {
+  background-color: #fff;
+  color: var(--blue-color);
+
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.languageWrapper:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.languageWrapper2:hover {
+  background-color: var(--blue-color);
+  color: var(--white-color);
+}
+
+.languageLeft {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+
+  transform: translateY(1px);
+}
+
+.languageLeft img {
+  width: 18px;
+}
+
+.dropdown {
+  width: 12px !important;
+}
+
+.rightWrapper {
+  height: 100%;
+}
+
+.rightWrapper:hover > .dropdownWrapper {
+  opacity: 1;
+  transform: translateY(0px);
+
+  pointer-events: inherit;
+}
+
+/* Nav */
+
+.navigationWrapper {
+  padding: 10px 0;
+  position: relative;
+}
+
+.navigationWrapper > div {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navList {
+  display: flex;
+  align-items: center;
+  column-gap: 40px;
+  row-gap: 10px;
+  flex-wrap: wrap;
+  text-transform: uppercase;
+
+  font-weight: 400;
+  color: #49494a;
+}
+
+.navList > div:hover {
+  color: var(--blue-color);
+  cursor: pointer;
+}
+
+.navList > div {
+}
+
+.navigationWrapper img {
+  width: 180px;
+
+  cursor: pointer;
+}
+
+.navList svg {
+  width: 15px !important;
+  height: 15px !important;
+  fill: black;
+}
+
+.navList > div {
+  position: relative;
+}
+
+.subListWrapper {
+  position: absolute;
+  bottom: 0px;
+  font-size: 13px;
+  opacity: 0;
+  transform: translateY(105%);
+  transition: 0.25s ease-in-out;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 10;
+  padding-top: 10px;
+}
+
+.subList {
+  width: max-content;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.subList p {
+  padding: 15px;
+  background-color: white;
+
+  text-transform: initial !important;
+}
+
+.subList p:hover {
+  background-color: var(--blue-color);
+  color: white;
+}
+
+.navList > div:hover > .subListWrapper {
+  opacity: 1;
+  transform: translateY(100%);
+
+  pointer-events: inherit;
+}
+
+.navIcon {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.navIcon img {
+  width: 22px;
+}
+
+.navIcon {
+  display: none;
+}
+
+@media (max-width: 1000px) {
+  .navigationWrapper {
+    padding: 0;
+  }
+
+  .navigationWrapper > div {
+    height: 100%;
+    padding: 0;
+  }
+
+  .topNavWrapper {
+    padding: 10px 20px;
+    background-color: white;
+    z-index: 101;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+  }
+
+  .topNavWrapper > img {
+    width: 125px;
+  }
+
+  .navIcon {
+    display: initial;
+  }
+
+  .navList {
+    position: absolute;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color: white;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translateY(0%);
+    z-index: 100;
+    gap: 20px;
+    padding: 10px 0;
+    transition: 0.25s ease-in-out;
+    pointer-events: none;
+    opacity: 1;
+
+    color: var(--blue-color);
+  }
+
+  .openMenu {
+    opacity: 1;
+    transform: translateY(100%);
+
+    pointer-events: initial;
+  }
+
+  .navList > div,
+  .navList > a {
+    padding: 0px 20px;
+
+    width: 100%;
+  }
+
+  .navList > div:hover > .subListWrapper {
+    transform: translateY(0%);
+  }
+
+  .navList svg {
+    fill: var(--blue-color);
+  }
+
+  .subListWrapper {
+    position: relative;
+    opacity: 1;
+    transform: translateY(0%);
+
+    width: 100%;
+
+    padding-top: 0px;
+    height: 0px;
+  }
+
+  .subOpen {
+    height: 100%;
+  }
+
+  .subList {
+    box-shadow: initial;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 15px;
+  }
+
+  .subList p {
+    padding: 0px 0px;
+    width: 100%;
+  }
+
+  .subList p:hover {
+    background-color: transparent;
+    color: var(--blue-color);
+  }
+}

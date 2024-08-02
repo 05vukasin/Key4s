@@ -1,0 +1,173 @@
+.section {
+  padding: 50px 0;
+}
+
+.section iframe {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  line-height: 28px;
+  font-size: 18px;
+
+  margin-bottom: 20px;
+}
+
+.item img {
+  height: 25px;
+}
+
+.groupTitle {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 20px;
+  color: var(--blue-color);
+  border-bottom: 2px solid var(--blue-color);
+
+  margin-bottom: 20px;
+}
+
+.rightText {
+  line-height: 140%;
+}
+
+.form {
+  padding-top: 30px;
+}
+
+.inputWrapper {
+  margin-bottom: 20px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  gap: 20px;
+}
+
+.form input,
+.form textarea {
+  width: 100%;
+  font-family: "Axiforma";
+  font-weight: 400;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #e6e7e8;
+  padding: 8px 16px;
+
+  font-size: 16px;
+}
+
+.inputLabel {
+  color: var(--blue-color);
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.fullRow {
+  width: 100%;
+}
+
+.fullRow > a {
+  margin-top: 25px;
+  width: 100%;
+  justify-content: center;
+}
+
+.networkList img {
+  width: 25px;
+}
+
+.networkList {
+  display: flex;
+  gap: 30px;
+
+  align-items: center;
+}
+
+@media (max-width: 1000px) {
+  .section iframe {
+    margin-top: 50px;
+  }
+
+  .group {
+    grid-template-columns: 1fr;
+    gap: 50px;
+  }
+
+  .left {
+    gap: 25px;
+  }
+
+  .item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    line-height: 28px;
+    font-size: 18px;
+
+    margin-bottom: 20px;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
+  }
+
+  .form input,
+  .form textarea {
+    width: 100%;
+    font-family: "Axiforma";
+    font-weight: 400;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #e6e7e8;
+    padding: 8px 16px;
+
+    font-size: 16px;
+  }
+
+  .inputLabel {
+    color: var(--blue-color);
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+
+  .fullRow {
+    width: 100%;
+  }
+
+  .fullRow > a {
+    margin-top: 25px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .networkList img {
+    width: 25px;
+  }
+
+  .networkList {
+    display: flex;
+    gap: 30px;
+
+    align-items: center;
+  }
+}
